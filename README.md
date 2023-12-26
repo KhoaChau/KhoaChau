@@ -1,6 +1,7 @@
+<h1 align="center">Hi 👋, My name is: Khoa Chau, but everyone calls me KC</h1>
 <h3 align="center">An outdoor enthusiast who spend too much time behind the keyboard</h3>
 
-- 📫 How to reach me **khoa.chau@gmail.com**
+- 📫 **khoa.chau@gmail.com**
 
 - ⚡ **Love drone photography, and generative Ai**
 
